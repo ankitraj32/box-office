@@ -17,7 +17,7 @@ const Home = () => {
       if (searchOption === 'shows') {
         result = await searchForShows(q);
       } else {
-        result = await searchForShows(q);
+        result = await searchForPeople(q);
       }
 
       setApiData(result);
