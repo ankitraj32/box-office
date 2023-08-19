@@ -14,7 +14,7 @@ const GlobalStyles = createGlobalStyle`
     font-family: ${({ theme }) => theme.fontFamily};
     font-size: 18px;
     margin: 0;
-    background: #95BDFF;
+    background: #3A98B9;
     padding-top: 40px;
     padding-left: 15px;
     padding-right: 15px;
