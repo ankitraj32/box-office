@@ -1,7 +1,7 @@
 {
   "name": "box-office",
   "version": "0.1.0",
-  "homepage": "https://ankitraj32.github.io/box-office-app",
+  "homepage": "https://ankitraj32.github.io/box-office",
   "private": true,
   "dependencies": {
     "@tanstack/react-query": "^4.32.6",
